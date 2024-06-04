@@ -42,3 +42,4 @@ target.write("\n")
 # Close the file to ensure the data is saved and resources are freed
 print("And finally, we close it.")
 target.close()
+

@@ -19,5 +19,5 @@ son = Child()
 # Call the altered method on the Parent instance
 dad.altered()
 
-# Call the altered method on the Child instance
+#Call the altered method on the Child instance
 son.altered()
